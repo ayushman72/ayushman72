@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ayushmaansingh72@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1Tz8no7m9bZ78Kn5NCnsWm-01kEVl88ZI/view?usp=drive_link)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/120_vK-drAhq7RjNdp2RONKSTHJylWiI5/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
