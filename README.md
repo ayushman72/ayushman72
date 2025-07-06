@@ -78,7 +78,7 @@ A passionate ML-AI Developer from IIIT Ranchi
 - Hosted open source VLM on-prem to ensure high performance
 
 
-**AI Intern** at [Mapathink](https://www.mapathink.com) *(Feb 2025 - Present)*
+**AI Intern** at [Mapathink](https://www.mapathink.com) *(Feb 2025 - June 2025)*
 - Created an automated system to generate a travel itinerary from an email query, reducing the time required to generate an itinerary from 30 minutes to 30 seconds
 -  Developed a WhatsApp chatbot that enables users to create and book travel plans, serving 50+ users with real-time itinerary generation
 - Integrated ChatGPT and LangChain for conversational logic; used Azure CosmosDB to store chat history and travel data; deployed complete system on Azure, ensuring 99.9% uptime
