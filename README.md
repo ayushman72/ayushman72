@@ -3,7 +3,7 @@ A passionate ML-AI Developer from IIIT Ranchi
 
 ## 🎓 About Me
 [![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg)](https://ayushman-singh.vercel.app)
-[![Resume](https://img.shields.io/badge/Resume-%23D00000.svg)](https://drive.google.com/file/d/1DKRqaCZ2rW1_4rok2k7t9PqUtq0FSDAq/view)
+[![Resume](https://img.shields.io/badge/Resume-%23D00000.svg)](https://resume.ayushmansingh.dev/resume.pdf)
 ![Profile Visists](https://komarev.com/ghpvc/?username=ayushman72&label=Profile%20views&color=0e75b6&style=flat)
 - 🔭 I’m currently working on assessing driver’s actions via VLMs
 - 🌱 I'm passionate about Machine Learning, Deep Learning, and AI Agent Development
@@ -72,7 +72,14 @@ A passionate ML-AI Developer from IIIT Ranchi
 ![](https://github-profile-trophy.vercel.app/?username=ayushman72&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🚀 Current Experience
-**ResearchIntern** at [CVIT,IIIT Hyderabad](https://cvit.iiit.ac.in/) *(May 2025 - July 2025)*
+**AI Intern** at Stealth Mode EdTech Startup *(July 2025 - Present)*
+- Architected the edtech platform with a scalable PostgreSQL database and robust FastAPI backend.
+- Built a multi-modal, multi-agent chatbot for real-time, stateful text and audio learning.
+- Automated the course pipeline using OpenAI and Marker to parse PDFs, structure data, and auto-populate the
+database, reducing manual entry.
+
+
+**Research Intern** at [CVIT,IIIT Hyderabad](https://cvit.iiit.ac.in/) *(May 2025 - July 2025)*
 - Designed an application to help train drivers by giving them prerecorded videos and tracking their actions
 - Used VLMs to assess the actions of the driver and give them a score and feedback
 - Hosted open source VLM on-prem to ensure high performance
