@@ -2,7 +2,7 @@
 A passionate ML-AI Developer from IIIT Ranchi
 
 ## 🎓 About Me
-[![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg)](https://ayushman-singh.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg)](https://ayushmansingh.dev)
 [![Resume](https://img.shields.io/badge/Resume-%23D00000.svg)](https://resume.ayushmansingh.dev/resume.pdf)
 ![Profile Visists](https://komarev.com/ghpvc/?username=ayushman72&label=Profile%20views&color=0e75b6&style=flat)
 - 🔭 I’m currently working on assessing driver’s actions via VLMs
@@ -72,7 +72,12 @@ A passionate ML-AI Developer from IIIT Ranchi
 ![](https://github-profile-trophy.vercel.app/?username=ayushman72&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🚀 Current Experience
-**AI Intern** at Stealth Mode EdTech Startup *(July 2025 - Present)*
+**Data Science Intern** at [Swiggy](https://swiggy.com) *(September 2025 - Present)*
+- Created the 'I Want To Cancel' chatbot, for resolving cancellation queries of customers.
+- Optimized the Agent Conversation Evaluation system for robustness and inrease in accuracy.
+- Working on 'Where Is My Order' chatbot, to resolve general user queries about there orders.
+
+**AI Intern** at Stealth Mode EdTech Startup *(July 2025 - September 2025)*
 - Architected the edtech platform with a scalable PostgreSQL database and robust FastAPI backend.
 - Built a multi-modal, multi-agent chatbot for real-time, stateful text and audio learning.
 - Automated the course pipeline using OpenAI and Marker to parse PDFs, structure data, and auto-populate the
